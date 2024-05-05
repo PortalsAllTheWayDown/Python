@@ -1,5 +1,5 @@
 #We first import the pyplot module using the alias plt so we dont have to type pyplot repeatedly
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt # type: ignore
 #The pyplot module contains a number of functions that generate charts and plots.
 #We create a list called squares to hold the data that we'll plot.
 x_values = [1,2,3,4,5]
